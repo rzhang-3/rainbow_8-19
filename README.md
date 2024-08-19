@@ -2,6 +2,8 @@
 This is a poem about rainbows
 Red
 Orange
+Yellow
+Greem
 Blue
 Indigo
 Violet

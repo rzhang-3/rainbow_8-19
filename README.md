@@ -3,7 +3,7 @@ This is a poem about rainbows
 Red
 Orange
 Yellow
-Greem
+Green
 Blue
 Indigo
 Violet
